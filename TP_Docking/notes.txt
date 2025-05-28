@@ -1,0 +1,5 @@
+Cherchez une méthode pour faire un auto docking sur un super calculateur
+
+Voir ce que le docking apporte, regarder les énergies, 
+
+Sur un docking, on lance plusieurs conformations et on prend l'énergie binding-energy la plus faible. 
