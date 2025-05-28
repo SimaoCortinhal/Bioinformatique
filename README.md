@@ -9,7 +9,7 @@ Ce dossier regroupe l’ensemble des travaux réalisés dans le cadre de l’UE 
   Dossier réservé au projet principal.
 
 - **TP_Docking/**  
-  Contient tous les fichiers et résultats liés au TP sur le **docking moléculaire** (étude des interactions ligand-récepteur avec Autodock, scripts d’automatisation, rapports…).
+  Contient tous les fichiers et résultats liés au TP sur le **docking moléculaire** (étude des interactions ligand-récepteur avec Autodock, scripts d’automatisation, rapports…). **PYTHON**
 
 - **TP_Séquence/**  
   Dossier dédié à l’**analyse de séquence** : traduction, recherches BLAST, étude de mutations et exploitation des bases GenBank/Uniprot, rapport.
